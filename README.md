@@ -12,4 +12,24 @@ git rm - - cached filename - remove added file
 Configure proxy
 ===============
 
-git config --global http.proxy proxyaddress
+git config --global http.proxy proxyaddres
+
+
+Add Branch Physical
+====================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
