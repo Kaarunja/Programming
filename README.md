@@ -12,9 +12,12 @@ git rm - - cached filename - remove added file
 Configure proxy
 ===============
 
-<<<<<<< HEAD
+
+
 git config --global http.proxy proxyaddress
 =======
+=======
+
 git config --global http.proxy proxyaddres
 
 
@@ -23,10 +26,16 @@ Add Branch Physical
 1.fbjhojgoig
 2.bigiugitg
 3.fjngijtg
+
 4.niru
 
 
 
+=======
+
+
+
+jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol jhk jhlkjd hjh hjhksd hjhks hjhsd jhkjds hjksdhhol 
 
 
 
@@ -38,4 +47,7 @@ Add Branch Physical
 
 
 
+<<<<<<< HEAD
+>>>>>>> physical
+=======
 >>>>>>> physical
